@@ -1,0 +1,7 @@
+module Config where
+
+token :: String
+token = "xxxxxxxxxx"
+
+domain :: String
+domain = "xxxxxxxxx"
